@@ -1,0 +1,26 @@
+{
+    "theme_color": "#74a7fe",
+    "background_color": "#ffffff",
+    "icons": [
+        {
+            "purpose": "maskable",
+            "sizes": "512x512",
+            "src": "icon512_maskable.png",
+            "type": "image/png"
+        },
+        {
+            "purpose": "any",
+            "sizes": "512x512",
+            "src": "icon512_rounded.png",
+            "type": "image/png"
+        }
+    ],
+    "orientation": "any",
+    "display": "standalone",
+    "dir": "auto",
+    "lang": "pt-BR",
+    "name": "Hinário do Candidato CCB",
+    "short_name": "Hinário do Candidato",
+    "start_url": "https://gsvaldevieso.github.io/hinario-do-candidato-ccb",
+    "scope": "https://gsvaldevieso.github.io/hinario-do-candidato-ccb"
+}
